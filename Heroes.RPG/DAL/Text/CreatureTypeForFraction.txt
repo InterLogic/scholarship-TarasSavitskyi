@@ -1,0 +1,4 @@
+Knight
+Peasant Archer Infantryman Gryphon
+Elve
+Fairy Dancing_with_blades Elven_archer Druid

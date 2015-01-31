@@ -1,0 +1,10 @@
+Abadon
+2200
+Knight
+5 5 0 0
+0 0 0 0
+Deretin
+8000
+Knight
+5 8 5 0
+0 1 0 0

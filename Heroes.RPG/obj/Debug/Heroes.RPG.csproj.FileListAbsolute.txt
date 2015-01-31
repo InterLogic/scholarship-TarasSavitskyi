@@ -1,0 +1,5 @@
+F:\Documents and Settings\Taras\Мои документы\Visual Studio 2010\Projects\Heroes.RPG\Heroes.RPG\obj\Debug\ResolveAssemblyReference.cache
+F:\Documents and Settings\Taras\Мои документы\Visual Studio 2010\Projects\Heroes.RPG\Heroes.RPG\bin\Debug\Heroes.RPG.dll
+F:\Documents and Settings\Taras\Мои документы\Visual Studio 2010\Projects\Heroes.RPG\Heroes.RPG\bin\Debug\Heroes.RPG.pdb
+F:\Documents and Settings\Taras\Мои документы\Visual Studio 2010\Projects\Heroes.RPG\Heroes.RPG\obj\Debug\Heroes.RPG.dll
+F:\Documents and Settings\Taras\Мои документы\Visual Studio 2010\Projects\Heroes.RPG\Heroes.RPG\obj\Debug\Heroes.RPG.pdb
